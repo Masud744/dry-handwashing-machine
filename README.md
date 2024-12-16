@@ -36,7 +36,7 @@ This project addresses the global need for waterless sanitization systems. It is
 ## Installation and Usage  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/masud744/dry-handwashing-machine.git
+   git clone https://github.com/Masud744/dry-handwashing-machine.git
 
 2. Open the code file src/main.ino in the Arduino IDE.
 
